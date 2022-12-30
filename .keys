@@ -1,13 +1,13 @@
 # [paepcke.de/gitkeys] DATABASE FILE -= DO NOT EDIT MANUALLY =-
 # 
-# timestamp unix     : 1672375474
-# timestamp zulu     : 2022-12-30T04:44:34Z
-# number of targets  : 1127
+# timestamp unix     : 1672378133
+# timestamp zulu     : 2022-12-30T05:28:53Z
+# number of targets  : 1125
 # 
 # WARNING The Global CheckSum covers only keys, urls, logs, timestamps!
 # WARNING To get a clean and verified file, run 'gitkeys check.
 # 
-# Global CheckSum    : +9LDQ+ymf/GEL6XJa8Omdk62ZvHnHGcYEd9eD7Y72DQ=
+# Global CheckSum    : VXJH6tK1JDz/0PJTjhTPOd6iEdj5bvfzjlzi5gGpLEI=
 
 
 # https://bitbucket.org/creachadair
@@ -5592,14 +5592,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIICdiFzpIZuSUUyT0lPgD4KOaZF/Bo8Cpb/YAlslTIMZ
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICylnyvCs/aSfHp/1r67O0TvtPK12qM83NXXWJZsWRGP
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAfvOtU8TPk64OTG6UkldCLx2Fv0dACbxF4goEwt16hb
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID0NpSRAbz03YpWNYoiblGFeNZJEAXYpL7M0XLClEC4f
-
-
-# https://github.freebsd.org/HardenedBSD
-# CheckSum KeySet    : t0TUqvqeiszZkQi3mJvUKHrJiWfs1dheKbpGBA2FCtE=
-
-
-# https://github.freebsd.org/freebsd
-# CheckSum KeySet    : fKg+emSV+Kw96XE6l5CwYqQ53xNzm8iI02p5rdiy924=
 
 
 # https://gitlab.com/bosi
