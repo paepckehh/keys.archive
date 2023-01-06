@@ -4,11 +4,11 @@
 
 SSH Public Key Transparency Log:
 
-- data: KEYS.LOG 
+- see: [.keys](/keys)
 - changelog: submit history of this repo
 - keep your own log via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
 
-# I NEED MY REPO KEYS [PUBLISHED|TRACKED|SECURED] VIA THIS! 
+# I NEED MY REPO KEYS [ PUBLISHED | TRACKED | SECURED]  VIA THIS! 
 
 - simple, just push the /star/ button on this repo, done!
 
