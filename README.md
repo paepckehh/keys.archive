@@ -2,7 +2,7 @@
 
 [paepche.de/keys](https://paepcke.de/keys)
 
-SSH Public Key Tranparence Log (MIRROR)
+SSH Public Key Transparency Log (MIRROR)
 
 - generate by [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
 - see file .keys for details 
