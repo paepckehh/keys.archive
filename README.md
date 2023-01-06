@@ -8,7 +8,7 @@ SSH Public Key Transparency Log:
 - changelog: submit history of this repo
 - manage your own, local-first log via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
 
-# I NEED MY REPO KEY CHANGES [ PUBLISHED | TRACKED | SECURED]  VIA THIS! 
+# THIS! I NEED MY REPO KEY CHANGES [ PUBLISHED | TRACKED | SECURED ]
 
 - simple, just push the /star/ button on this repo, done!
 
