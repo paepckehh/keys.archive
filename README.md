@@ -4,9 +4,9 @@
 
 SSH Public Key Transparency Log:
 
-- see: [.keys](/keys)
+- see: [keys](/.keys)
 - changelog: submit history of this repo
-- keep your own log via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
+- manage your own, local-first log via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
 
 # I NEED MY REPO KEYS [ PUBLISHED | TRACKED | SECURED]  VIA THIS! 
 
@@ -21,4 +21,3 @@ Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys).
 
 * [github.com/paepckehh/keys](https://github.com/paepckehh/keys)
 * [codeberg.org/paepcke/keys](https://codeberg.org/paepcke/keys)
-
