@@ -1,18 +1,18 @@
 # OVERVIEW 
 
-[paepche.de/keys](https://paepcke.de/keys)
+[paepcke.de/keys](https://paepcke.de/keys)
 
-SSH Public Key Transparency Log
+SSH Public Key Transparency Log:
 
 - generate by [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
-- see file .keys for details 
+- see file .keys for log details 
 
 # READ-ONLY-MIRROR
 
-* [github.com](https://github.com/paepckehh/keys)
-* [codeberg.org](https://codeberg.org/paepcke/keys)
+* [github.com/paepckehh/keys](https://github.com/paepckehh/keys)
+* [codeberg.org/paepcke/keys](https://codeberg.org/paepcke/keys)
 
 # CONTRIBUTION
 
-No possiblity for manual updates!
-Repo data is generated via paepcke.de/gitkeys (PRs Welcome there!)
+No manual updates.
+Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys).
