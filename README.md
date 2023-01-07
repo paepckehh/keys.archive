@@ -4,9 +4,9 @@
 
 SSH Public Key Transparency Log:
 
-- see: [keys](/.keys)
+- see: [.keys](https://github.com/paepckehh/keys/blob/main/.keys)
 - changelog: submit history of this repo
-- manage your own, local-first log via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
+- manage your own, local-first [app] via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
 
 # THIS! I NEED MY REPO KEY CHANGES [ PUBLISHED | TRACKED | SECURED ]
 
