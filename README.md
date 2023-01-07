@@ -14,10 +14,10 @@ SSH Public Key Transparency Log:
 
 # READ-ONLY-MIRROR
 
-* [github.com/paepckehh/keys](https://github.com/paepckehh/keys)
 * [codeberg.org/paepcke/keys](https://codeberg.org/paepcke/keys)
 * [git.sr.ht/~paepcke/keys](https://git.sr.ht/~paepcke/keys)
 * [gitlab.com/paepcke/keys](https://gitlab.com/paepcke/keys)
+* [github.com/paepckehh/keys](https://github.com/paepckehh/keys)
 
 # CONTRIBUTION
 
