@@ -12,12 +12,12 @@ SSH Public Key Transparency Log:
 
 - simple, just push the /star/ button on this repo, done!
 
-# CONTRIBUTION
-
-No manual updates.
-Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys).
-
 # READ-ONLY-MIRROR
 
 * [github.com/paepckehh/keys](https://github.com/paepckehh/keys)
 * [codeberg.org/paepcke/keys](https://codeberg.org/paepcke/keys)
+* [sr.ht/~paepcke/keys](https://sr.ht/~paepcke/keys)
+
+# CONTRIBUTION
+
+Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys).
