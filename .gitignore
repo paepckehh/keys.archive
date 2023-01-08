@@ -21,3 +21,5 @@
 Makefile
 doc
 vendor
+keys
+cmd/keys/keys
