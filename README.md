@@ -1,12 +1,12 @@
 # OVERVIEW 
 
-[paepcke.de/keys](https://paepcke.de/keys)
+[paepcke.de/keys](https://paepcke.de/keys/)
 
 SSH Public Key Transparency Log:
 
 - see: [.keys](https://github.com/paepckehh/keys/blob/main/.keys)
 - changelog: submit history of this repo
-- manage your own, local-first [app] via [paepcke.de/gitkeys](https://paepcke.de/gitkeys)
+- manage your own, local-first [app] via [paepcke.de/gitkeys](https://paepcke.de/gitkeys/)
 
 # THIS! I NEED MY REPO KEY CHANGES [ PUBLISHED | TRACKED | SECURED ]
 
@@ -21,4 +21,4 @@ SSH Public Key Transparency Log:
 
 # CONTRIBUTION
 
-Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys).
+Repo data is generated via [paepcke.de/gitkeys](https://paepcke.de/gitkeys/).
